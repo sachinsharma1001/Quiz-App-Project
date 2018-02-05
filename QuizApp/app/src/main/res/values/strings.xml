@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="instruction"><u>Instructions</u></string>
+    <string name="instruct">Answering every question is mandatory</string>
+    <string name = "ques1">1) Which one of the following types of literals can be specified only by values, true or false?</string>
+    <string name = "ques2">2) Which one of the following access specifiers represents the least restrictive level of access?</string>
+    <string name = "ques3">3) In Java, a class can contain which members?</string>
+    <string name = "ques4">4) Which one of the following keywords is used to represent an object of the current class ?</string>
+    <string name = "ques5">5) What are the components of OOPS concept ?</string>
+    <string name = "ques6">6) Does constructor return any value ?</string>
+</resources>
